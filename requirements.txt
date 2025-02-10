@@ -4,3 +4,4 @@ torch
 pdf2docx
 lxml
 sentencepiece
+python-dotenv

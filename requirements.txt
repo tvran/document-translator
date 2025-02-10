@@ -1,7 +1,6 @@
 streamlit
 transformers
-torch
 pdf2docx
 lxml
-sentencepiece
+torch
 python-dotenv

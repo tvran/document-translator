@@ -4,6 +4,3 @@ pdf2docx
 lxml
 torch
 python-dotenv
-tempfile
-shutil
-logging

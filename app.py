@@ -6,6 +6,8 @@ from pdf2docx import Converter
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 from dotenv import load_dotenv
 
+st.set_option('server.fileWatcherType', 'none')
+
 # Load environment variables
 load_dotenv()
 
